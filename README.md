@@ -6,7 +6,7 @@ This code creates a Node.js command-line application that prompts the user for i
 
 ## User Story
 
-AS a freelance web developer <br.
+AS a freelance web developer <br
 I WANT to generate a simple logo for my projects <br>
 SO THAT I don't have to pay a graphic designer <br>
 
