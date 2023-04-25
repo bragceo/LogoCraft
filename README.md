@@ -38,9 +38,11 @@ https://watch.screencastify.com/v/RoobWkyapZaY5SrceGVX
 
 https://watch.screencastify.com/v/RoobWkyapZaY5SrceGVX
 
+Sample logo 
 
 https://github.com/bragceo/LogoCraft/commit/36bbadafddecc7e9fa0b8eec33d0f11660cbe83e
 
+![Sample SVG file logo](https://user-images.githubusercontent.com/119948453/234281929-9d48e92a-52d5-45dc-8124-4abb90935b74.svg)
 
 
 ## How the Code Works
